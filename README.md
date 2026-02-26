@@ -37,8 +37,11 @@ arcade-mcp secret set GOOGLE_API_KEY="your_api_key_here"
 ```
 
 ### 6. Deploy Server
+
+Clone this repo, then:
+
 ```bash
-cd architect_mcp
+cd blueprint-mcp
 arcade-mcp deploy
 ```
 
